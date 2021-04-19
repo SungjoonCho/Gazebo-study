@@ -70,6 +70,9 @@
 </robot>
 </p>
 
+gravity 설정 :  <gravity>0</gravity>
+
+
 ---
 
 xacro = xml + macro
