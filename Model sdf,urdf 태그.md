@@ -70,8 +70,9 @@
 </robot>
 </p>
 
+<pre>
 gravity 설정 :  <gravity>0</gravity>
-
+</pre>
 
 ---
 
